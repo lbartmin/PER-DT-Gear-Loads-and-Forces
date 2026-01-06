@@ -1,2 +1,2 @@
-# PER-DT-Gear-Loads-and-Forces
-RegenEst will calculated estimated reverse torque experienced by gears based on provided track data and output an adjusted load vector. Using as input to PlanetShaft provides tangential &amp; radial gear forces, planet shaft forces, stresses &amp; failure. Rainflow counting calculates fatigue life based on fluctuating shaft stresses.
+# PER-DT-Calculators
+Regen Load Spectra Estimation (won't need after we have real regen data), Planet Shaft Analysis (+useful for individual gear loads), Faituge Calculator with Rainflow Counting, Bearing and Tire Forces, gear MOI calculator
